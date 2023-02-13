@@ -60,3 +60,4 @@ subplot(1,2,2),imshow(I), title('CornerDetectorAfterNMS'),
 hold on
 plot(yp,xp, 'b*');
 hold off
+plot(yp,xp, 'b*');
